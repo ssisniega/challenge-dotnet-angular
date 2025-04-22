@@ -1,0 +1,16 @@
+# Ignore Visual Studio build files
+**/bin/
+**/obj/
+
+# Ignore Angular node_modules
+**/node_modules/
+
+# Ignore environment files if exist
+**/src/environments/*.ts
+
+# Ignore .vs folders
+**/.vs/
+
+# Ignore Mac OS and Windows system files
+.DS_Store
+Thumbs.db
